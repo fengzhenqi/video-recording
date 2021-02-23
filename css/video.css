@@ -6,7 +6,6 @@ body,
 html {
     width: 100%;
     height: 100%;
-    position: relative;
 }
 #preview {
     background: black;
@@ -14,6 +13,8 @@ html {
 .video-content {
     width: 375px;
     height: 667px;
+    position: relative;
+    margin: 0 auto;
 }
 .video-bottom {
     width: 375px;
