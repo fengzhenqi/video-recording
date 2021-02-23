@@ -4,4 +4,5 @@
     video.hteml     -->     视频录制页面
     audio.html      -->     录音机
     photo.html      -->     拍照
+    screen.html     -->     录屏
 ```
